@@ -1,0 +1,57 @@
+
+index.html
+
+Salvo: 6 minutos atrás
+
+deixe cor; deixe posiçãoHorizontal ; //x
+
+deixe posiçãoVertical; // sim
+
+▼ configuração de função () {
+
+criarCanvas (400, 400); fundo (cor ( 100, 0, 0)); cor = cor (aleatório ( 0, 255), aleatório (0, 255), aleatório (0, 255));
+
+posiçãoHorizontal = 200 ;
+
+posiçãoVertical = 200 :
+9
+
+posiçãoVertical = 200;
+
+10 }
+
+11
+
+12
+
+13
+
+função desenhar () {
+
+14
+
+15
+
+preencher (cor);
+
+16
+
+círculo (posiçãoHorizontal posiçãoVertical, 50);
+
+if (mouseX < posiçãoHorizontal ){
+
+posiçãoHorizontal posiçãoHorizontal } = - 1;
+
+if (mouseX > posiçãoHorizontal ){ posiçãoHorizontal posiçãoHorizontal } + = 1;
+
+if (mouseY < posiçãoVertical ){ posiçãoVertical --; }
+
+if (mouseY > posiçãoVertical ){
+
+posiçãoVertical ++;
+
+}
+
+if (mouseIsPressed ){ cor cor (aleatório (0, 255 = ), aleatório ( 0, 255), aleatório ( 0, 255), aleatório (0, 100)); }
+
+}
